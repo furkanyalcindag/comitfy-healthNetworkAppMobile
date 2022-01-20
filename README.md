@@ -1,7 +1,7 @@
 
 
 
-# Healthie Mobil Uygulama Projesi
+# HealTie Mobil Uygulama Projesi
 
 ## Amaç
 
